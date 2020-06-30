@@ -1,2 +1,3 @@
-# DA-Project
-Analysis of Currency Rates PesoUSD
+# Data Analysis 
+Analysis of Exchange Rates Movement using Machine Learning techniques 
+ColumbianPeso(CP/USD)
